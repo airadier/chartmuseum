@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/chartmuseum/storage"
+	"github.com/airadier/storage"
 	"helm.sh/chartmuseum/pkg/cache"
 	"helm.sh/chartmuseum/pkg/chartmuseum"
 	"helm.sh/chartmuseum/pkg/config"
