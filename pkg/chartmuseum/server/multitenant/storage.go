@@ -23,7 +23,7 @@ import (
 	cm_logger "helm.sh/chartmuseum/pkg/chartmuseum/logger"
 	cm_repo "helm.sh/chartmuseum/pkg/repo"
 
-	"github.com/chartmuseum/storage"
+	"github.com/airadier/storage"
 )
 
 var (

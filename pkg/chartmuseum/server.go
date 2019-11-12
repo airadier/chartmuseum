@@ -19,7 +19,7 @@ package chartmuseum
 import (
 	"strings"
 
-	"github.com/chartmuseum/storage"
+	"github.com/airadier/storage"
 	"helm.sh/chartmuseum/pkg/cache"
 	cm_logger "helm.sh/chartmuseum/pkg/chartmuseum/logger"
 	cm_router "helm.sh/chartmuseum/pkg/chartmuseum/router"

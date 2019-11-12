@@ -19,7 +19,7 @@ package multitenant
 import (
 	pathutil "path"
 
-	cm_storage "github.com/chartmuseum/storage"
+	cm_storage "github.com/airadier/storage"
 	cm_logger "helm.sh/chartmuseum/pkg/chartmuseum/logger"
 	cm_repo "helm.sh/chartmuseum/pkg/repo"
 )

@@ -26,8 +26,8 @@ import (
 	cm_router "helm.sh/chartmuseum/pkg/chartmuseum/router"
 	cm_repo "helm.sh/chartmuseum/pkg/repo"
 
-	"github.com/chartmuseum/storage"
-	cm_storage "github.com/chartmuseum/storage"
+	"github.com/airadier/storage"
+	cm_storage "github.com/airadier/storage"
 	"github.com/gin-gonic/gin"
 )
 

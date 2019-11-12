@@ -42,7 +42,7 @@ import (
 	cm_logger "helm.sh/chartmuseum/pkg/chartmuseum/logger"
 	cm_repo "helm.sh/chartmuseum/pkg/repo"
 
-	cm_storage "github.com/chartmuseum/storage"
+	cm_storage "github.com/airadier/storage"
 	"github.com/ghodss/yaml"
 	"github.com/gin-gonic/gin"
 	helm_repo "k8s.io/helm/pkg/repo"

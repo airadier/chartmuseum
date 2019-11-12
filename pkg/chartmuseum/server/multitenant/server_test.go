@@ -34,7 +34,7 @@ import (
 	cm_router "helm.sh/chartmuseum/pkg/chartmuseum/router"
 	"helm.sh/chartmuseum/pkg/repo"
 
-	"github.com/chartmuseum/storage"
+	"github.com/airadier/storage"
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/suite"
 )
