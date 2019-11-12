@@ -7,7 +7,7 @@ require (
 	github.com/alicebob/gopher-json v0.0.0-20180125190556-5a6b3ba71ee6 // indirect
 	github.com/alicebob/miniredis v2.5.0+incompatible
 	github.com/chartmuseum/auth v0.2.0
-	github.com/chartmuseum/storage v0.5.0
+	github.com/airadier/storage v0.5.0-aim
 	github.com/cyphar/filepath-securejoin v0.2.2 // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-contrib/size v0.0.0-20190528085907-355431950c57
